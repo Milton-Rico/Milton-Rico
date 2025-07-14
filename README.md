@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/milton-joseth-rico-b-34964034b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<div style="display: inline-block; vertical-align: top; width: 48%; margin: 1%;">
+<div style="display: grid;grid-template-columns: 2;gap: 10px;">
   <h4>🧠 Core Programming</h4>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="http://ude.my/UC-b9576304-0459-48c1-9e67-d4e285d896a3" target="_blank">
