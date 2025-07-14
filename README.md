@@ -27,7 +27,9 @@
     <a href="https://www.ude.my/UC-50f52ea5-5a0f-46a6-a7b8-d035edbb457d/" target="_blank">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" height="30" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white"/>
+    </a>
+	    
   <h4>🎨 Frameworks & Styling</h4>
     <a href="https://www.ude.my/UC-50f52ea5-5a0f-46a6-a7b8-d035edbb457d/">
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
