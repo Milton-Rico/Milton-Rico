@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/milton-joseth-rico-b-34964034b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <h3>👨‍💻 Languages</h3>
-<div style="display: flex; gap: 10px;" aling="space-between">
+<div style="display: inline-block; vertical-align;>
   <h4>🧠 Core Programming</h4>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="http://ude.my/UC-b9576304-0459-48c1-9e67-d4e285d896a3" target="_blank">
@@ -30,9 +30,7 @@
       <img src="https://img.shields.io/badge/react--router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" height="30"/>
     </a>
   </div>
-</div>
 
-<div style="display: flex; gap: 10px;" aling="space-between">
   <h4>🎨 Frameworks & Styling</h4>
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="https://www.ude.my/UC-50f52ea5-5a0f-46a6-a7b8-d035edbb457d/" target="_blank">
