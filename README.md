@@ -44,3 +44,13 @@
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </div>
+
+	
+<h3>💼 PORTFOLIO</h3>
+
+- <a href="https://omnifood-project-mr.netlify.app" target="_blank"><p>Omnifood</p></a>
+- <a href="https://tictactoe-mr.netlify.app" target="_blank"><p>Tic Tac Toe Game</p></a>
+- <a href="https://github.com/Milton-Rico/FoodOrderApp" target="_blank"><p>FoodOrderApp</p></a>
+- <a href="https://next-level-food-milton-ricos-projects.vercel.app" target="_blank"><p>Next Level Food</p></a>
+
+
