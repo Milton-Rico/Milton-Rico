@@ -52,5 +52,6 @@
 - <a href="https://tictactoe-mr.netlify.app" target="_blank"><p>Tic Tac Toe Game</p></a>
 - <a href="https://github.com/Milton-Rico/FoodOrderApp" target="_blank"><p>FoodOrderApp</p></a>
 - <a href="https://next-level-food-milton-ricos-projects.vercel.app" target="_blank"><p>Next Level Food</p></a>
+- <a href="https://andantecocinero.com" target="_blank"><p>Freelance work: Ensaladas Creativas</p></a>
 
 
