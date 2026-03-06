@@ -5,7 +5,6 @@
 <div align='center'>
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/milton-joseth-rico-b-34964034b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://personal-portfolio-two-tau-81.vercel.app" target="_blank"><p>Portfolio</p></a>
 </div>
 
 <h3 align='center'>👨‍💻 LANGUAGES</h3>
@@ -47,7 +46,7 @@
 </div>
 
 	
-<h3>💼 PORTFOLIO</h3>
+<h3><a href="https://personal-portfolio-two-tau-81.vercel.app" target="_blank">💼 PORTFOLIO<a></a></h3>
 
 - <a href="https://andantecocinero.com" target="_blank"><p>Freelance work: Ensaladas Creativas</p></a>
 - <a href="https://crhomeconsultingengineering.com" target="_blank"><p>Freelance work: CR Home Inspections</p></a>
