@@ -1,10 +1,11 @@
 <h1 align='center'>Hi there  👋, I'm Milton Rico
 
-<p align='center'>Junior FrontEnd Dev. | Student</p>
+<p align='center'>Junior FrontEnd Dev</p>
 
 <div align='center'>
   <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://www.linkedin.com/in/milton-joseth-rico-b-34964034b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://personal-portfolio-two-tau-81.vercel.app" target="_blank"><p>Portfolio</p></a>
 </div>
 
 <h3 align='center'>👨‍💻 LANGUAGES</h3>
@@ -48,10 +49,12 @@
 	
 <h3>💼 PORTFOLIO</h3>
 
+- <a href="https://andantecocinero.com" target="_blank"><p>Freelance work: Ensaladas Creativas</p></a>
+- <a href="https://crhomeconsultingengineering.com" target="_blank"><p>Freelance work: CR Home Inspections</p></a>
+- <a href="https://www.crimsonstudio.online" target="_blank"><p>Freelance work: Crimson Studio</p></a>
+- <a href="https://github.com/Milton-Rico/FoodOrderApp" target="_blank"><p>FoodOrderApp</p></a>
 - <a href="https://omnifood-project-mr.netlify.app" target="_blank"><p>Omnifood</p></a>
 - <a href="https://tictactoe-mr.netlify.app" target="_blank"><p>Tic Tac Toe Game</p></a>
-- <a href="https://github.com/Milton-Rico/FoodOrderApp" target="_blank"><p>FoodOrderApp</p></a>
 - <a href="https://next-level-food-milton-ricos-projects.vercel.app" target="_blank"><p>Next Level Food</p></a>
-- <a href="https://andantecocinero.com" target="_blank"><p>Freelance work: Ensaladas Creativas</p></a>
 
 
